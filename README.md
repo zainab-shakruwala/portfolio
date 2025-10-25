@@ -1,4 +1,4 @@
-This is a clean professional portfolio page.
+# Professional Portfolio
 ## 🔧 Technical Details
 
 - **HTML5**: Semantic markup
